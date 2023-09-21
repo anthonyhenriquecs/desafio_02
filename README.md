@@ -1,4 +1,5 @@
 # desafio_02
+
 # Número de testes
 N = int(input())
 
